@@ -1,6 +1,6 @@
 # JustDeploy
 
-JustDeploy is a backend system that emulates Vercel's project deployment functionality. This project is designed as a learning exercise to enhance software engineering skills.
+[JustDeploy](https://www.youtube.com/watch?v=FUK130q-v2g) is a backend system that emulates Vercel's project deployment functionality. This project is designed as a learning exercise to enhance software engineering skills.
 
 ## Project Architecture
 
